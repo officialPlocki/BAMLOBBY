@@ -1,0 +1,6 @@
+name: BAMLobby
+author: plocki, BuildAndMine Development
+version: 1.0
+main: de.buildandmine.lobbysystem.main.Main
+commands:
+  setspawn:
